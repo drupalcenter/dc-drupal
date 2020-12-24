@@ -1,2 +1,2 @@
-# dc-drupal
+# DC-Drupal
 Drupal Base Theme
